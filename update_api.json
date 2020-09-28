@@ -1,0 +1,12 @@
+{
+  "Code": 0,    
+  "Msg": "",   
+  "UpdateStatus":1,   
+  "VersionCode": 214,
+  "VersionName": "2.1.4",
+  "UploadTime": "2020-08-26 21:03:47",
+  "ModifyContent": "\r\n1、优化整体功能。\r\n2、更快约TA。\r\n3、修复已知bug",
+  "DownloadUrl": "https://makefriend.oss-cn-beijing.aliyuncs.com/apk/makefriends.apk",
+  "ApkSize": 17537,
+  "ApkMd5": ""   
+}
